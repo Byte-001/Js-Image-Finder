@@ -89,3 +89,19 @@ form{
     padding: 10px;
     text-transform: capitalize;
 }
+
+@media screen and (max-width: 768px) {
+    .imageResults{
+        padding: 20px;
+    }
+
+    .imageResult{
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .imageResult{
+        width: 100%;
+    }
+}
