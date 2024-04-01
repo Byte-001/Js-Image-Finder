@@ -18,6 +18,13 @@ body{
     margin: 40px 60px;
 }
 
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
 .inputField{
     width: 60%;
     max-width: 400px;
