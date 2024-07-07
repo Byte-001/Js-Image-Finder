@@ -1,2 +1,2 @@
 # Js-Image-Finder
-Api kullanımıyla beraber DOM yapısını öğrenmek adına yapmış olduğum bir resim arama uygulaması
+An image search application I made to learn the DOM structure with the use of API
